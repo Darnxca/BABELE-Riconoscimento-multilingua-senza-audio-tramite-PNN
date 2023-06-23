@@ -1,0 +1,2 @@
+Kernel,Smoothing Param,Accuracy,Accuracy (%),F1-Score,Precision,Recall
+Gaussian,1.1818767956152745,0.2875,28.75%,23.20%,28.75%,26.75%
