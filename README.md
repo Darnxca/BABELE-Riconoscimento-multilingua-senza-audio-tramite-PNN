@@ -31,8 +31,8 @@ Questo progetto è stato realizzato come parte del corso di Biometria universita
 ## Contatti
 Per qualsiasi domanda o ulteriori informazioni, si prega di contattare gli autori del progetto:
 
-Carmine D'Angelo
-Matteo Della Rocca
+- Carmine D'Angelo [https://github.com/Darnxca](url)
+- Matteo Della Rocca [https://github.com/mattdr5](url)
 
 
 -----------------------
@@ -70,7 +70,7 @@ This project was developed as part of the university Biometrics course.
 ## Contact
 For any questions or further information, please contact the project authors:
 
-Carmine D'Angelo
-Matteo Della Rocca
+- Carmine D'Angelo [https://github.com/Darnxca](url)
+- Matteo Della Rocca [https://github.com/mattdr5](url)
 
 Thank you for your interest in the BABELE project!
