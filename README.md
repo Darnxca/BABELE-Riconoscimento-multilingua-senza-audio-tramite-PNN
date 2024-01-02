@@ -33,7 +33,7 @@ Per qualsiasi domanda o ulteriori informazioni, si prega di contattare gli autor
 
 - Carmine D'Angelo [https://github.com/Darnxca](url)
 - Matteo Della Rocca [https://github.com/mattdr5](url)
-
+- Francesco Aurilio
 
 -----------------------
 
@@ -72,5 +72,6 @@ For any questions or further information, please contact the project authors:
 
 - Carmine D'Angelo [https://github.com/Darnxca](url)
 - Matteo Della Rocca [https://github.com/mattdr5](url)
-
+- Francesco Aurilio
+  
 Thank you for your interest in the BABELE project!
