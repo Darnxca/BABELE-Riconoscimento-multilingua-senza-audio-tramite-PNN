@@ -72,6 +72,6 @@ For any questions or further information, please contact the project authors:
 
 - Carmine D'Angelo [https://github.com/Darnxca](url)
 - Matteo Della Rocca [https://github.com/mattdr5](url)
-- Francesco Aurilio
+- Francesco Aurilio [https://github.com/Frazzy](url)
   
 Thank you for your interest in the BABELE project!
